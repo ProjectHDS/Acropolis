@@ -145,10 +145,6 @@ file = "config/brandon3055/ProjectIntelligence/projectintelligence.xml"
 hash = "d44b0ab387ed2281c599566ab22206d8351f441a09ba19792baeb8c53eba516b"
 
 [[files]]
-file = "config/cd4017be/compiled.dat"
-hash = "e4490b594a3308abe26b191af5f893adca85bada75008e1cce1f38f4e41db258"
-
-[[files]]
 file = "config/cd4017be/core.rcp"
 hash = "931fc5d02ff4c6e6e64edaecaf1ec71c9fb586e253f3051795adffeb0b6033b5"
 
