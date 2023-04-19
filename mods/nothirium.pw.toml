@@ -1,0 +1,13 @@
+name = "Nothirium"
+filename = "Nothirium-1.12.2-0.2.4-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cfad8310b53f3702c99ce061eab28836d9d9e2db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4438616
+project-id = 624960

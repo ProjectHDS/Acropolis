@@ -1,0 +1,13 @@
+name = "Incorporeal"
+filename = "incorporeal-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "418ea41214d61ce41413fb7b0622d3bb0c7dd31a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2952946
+project-id = 300842

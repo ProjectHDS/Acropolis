@@ -1,0 +1,13 @@
+name = "OC XNet Driver"
+filename = "ocxnetdriver-1.0.3-b17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0168aa96831aa717f6c9339c991cba17ece7373"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2634368
+project-id = 285385

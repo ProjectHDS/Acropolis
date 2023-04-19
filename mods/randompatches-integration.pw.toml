@@ -1,0 +1,13 @@
+name = "RandomPatches Integration"
+filename = "rpintegration-1.12.2-1.5.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12f2bc581cdb5e72e3777208d793a92d0168ce64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2735727
+project-id = 308836

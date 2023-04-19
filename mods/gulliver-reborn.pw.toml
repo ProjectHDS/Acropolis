@@ -1,0 +1,13 @@
+name = "Gulliver Reborn"
+filename = "Gulliver Reborn mc1.12.2 v1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c49a1254aca670fecaeed03a0279544cc8d90d68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2778235
+project-id = 327576

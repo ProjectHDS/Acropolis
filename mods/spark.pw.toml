@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-forge1122.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ea08fc3f82535f37a76f2e7340d239e64e40489"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3245793
+project-id = 361579

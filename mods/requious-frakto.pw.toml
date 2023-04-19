@@ -1,0 +1,13 @@
+name = "Requious Frakto"
+filename = "Requious Frakto-0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c853ee5e45613f37f787ba54333996b89bc1ece0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3218640
+project-id = 336748

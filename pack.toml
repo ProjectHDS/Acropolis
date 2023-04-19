@@ -1,0 +1,13 @@
+name = "Acropolis"
+author = "GBLodb, Lubang_Official, IsaacTadokoro"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7abcc54f9e41d91a206ca76f8ba7d6f75230d60b7f08d6e099fa9f34d3dd6db1"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

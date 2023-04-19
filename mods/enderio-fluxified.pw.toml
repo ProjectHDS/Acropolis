@@ -1,0 +1,13 @@
+name = "EnderIO Fluxified"
+filename = "enderiofluxified-1.12.2-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98e23540f85d376229430c12e6c9e9dca862a594"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3418574
+project-id = 383630

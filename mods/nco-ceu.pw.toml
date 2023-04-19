@@ -1,0 +1,9 @@
+name = "NuclearCraft-Overhauled-withCEU"
+filename = "NuclearCraft-2o.6.2-1.12.2+CEu.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ProjectHDS/NuclearCraft-withCEU/releases/download/v230413/NuclearCraft-2o.6.2-1.12.2+CEu.jar"
+
+hash-format = "sha256"
+hash = "07846cc63f8793f5c381e2d070b6c329262e11ec10eb841c8fce106a3809ae26"

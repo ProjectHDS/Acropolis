@@ -1,0 +1,13 @@
+name = "FindMeAnyDurability"
+filename = "findme-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "363590899"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2758262
+project-id = 334692

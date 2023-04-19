@@ -1,0 +1,13 @@
+name = "Sonar Core"
+filename = "sonarcore-1.12.2-5.0.19-20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92b7e86655202ba487f7b4d6932a8e332e503363"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2645156
+project-id = 239418

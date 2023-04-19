@@ -1,0 +1,13 @@
+name = "换行修复/WrapFix"
+filename = "WrapFix-1.0.4-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f50be1e7242a67096d62ab8b7f53bc4d876b4a3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4465469
+project-id = 576946

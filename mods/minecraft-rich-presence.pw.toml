@@ -1,0 +1,13 @@
+name = "DiscordCraft"
+filename = "DiscordCraft-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26022451841bb04b8e9b3cc1ec3210d6cd0e350a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2830525
+project-id = 310673

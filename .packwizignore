@@ -1,0 +1,52 @@
+# Whitelist
+*
+!*/
+
+# Configs
+!config/**
+config/enderio/recipes/*.pdf
+config/enderio/recipes/examples/**
+!config/enderio/recipes/user/*.xml
+!config/enderio/recipes/user/recipes.xsd
+config/enderio/painter_paint_sources_core.xml
+config/enderio/painter_paint_sources_user.xml
+config/BiomeTweaker/output/**
+config/tellme/**
+config/jei/worldSettings.cfg
+config/jei/bookmarks.ini
+config/AppliedEnergistics2/items.csv
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/VersionChecker.cfg
+config/AE2Stuff/readme.txt
+config/brandon3055/contributors.json
+config/ichunutil_keybinds.cfg
+config/journeymap_ModInfo.cfg
+config/journeymap_server.cfg
+config/betterfps.json
+config/blur.cfg
+config/codechicken/supporters.json
+config/codechicken/supporters.marker
+config/splash.properties
+config/InvTweaks/**
+config/InvTweaks.cfg
+*.local
+config/loliasm.cfg
+config/Probe.cfg
+
+# Mods
+!mods/**
+mods/*.jar
+mods/*.disabled
+mods/memory_repo/**
+
+# Resources
+!resources/**
+!oresources/**
+oresources/.git
+!structures/**
+!patchouli_books/**
+!scripts/**
+scripts/.zsrc
+scripts/nc_script_addons/**
+scripts/grassUtils/.git
+!/icon.png

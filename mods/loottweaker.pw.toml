@@ -1,0 +1,13 @@
+name = "LootTweaker"
+filename = "LootTweaker-0.3.1+MC1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8f19101b381333a549cc069a0e0814831bfedc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3507866
+project-id = 255257

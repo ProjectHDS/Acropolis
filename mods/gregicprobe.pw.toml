@@ -1,0 +1,13 @@
+name = "Gregic Probe"
+filename = "GregicProbe-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f6b9f779377c0bcabee0698849c7c6268edef9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3686839
+project-id = 592190

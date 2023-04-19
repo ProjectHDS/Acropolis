@@ -1,0 +1,13 @@
+name = "ArtemisLib"
+filename = "ArtemisLib-1.12.2-v1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e0d1519ae0ef09618933acb8851f76341239f3a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2741812
+project-id = 313590

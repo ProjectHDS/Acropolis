@@ -1,0 +1,13 @@
+name = "ContentTweaker Registry Orderer"
+filename = "CoTRO-1.0.0-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f2795ced044edd2089707224e23bd9eac9315ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3330925
+project-id = 488116

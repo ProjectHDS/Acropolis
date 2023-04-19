@@ -1,0 +1,13 @@
+name = "Practical Logistics 2"
+filename = "practicallogistics2-1.12.2-3.0.8-11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27641711907fe8c55a3c8043023a6f1d53f19650"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2643354
+project-id = 263048
