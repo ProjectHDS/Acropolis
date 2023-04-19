@@ -32,7 +32,7 @@ config/InvTweaks.cfg
 *.local
 config/loliasm.cfg
 config/Probe.cfg
-cd4017be/compiled.dat
+config/cd4017be/compiled.dat
 
 # Mods
 !mods/**
