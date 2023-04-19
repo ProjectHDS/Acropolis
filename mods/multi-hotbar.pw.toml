@@ -1,0 +1,13 @@
+name = "Multi-Hotbar"
+filename = "multihotbar-1.12.2-4.0.1-build-T116.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "729fd4010d4d48abd0c83c79f59e0cc9e38ec222"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2520321
+project-id = 246054

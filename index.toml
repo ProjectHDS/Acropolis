@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
-hash = "792904db3578d87dfbf6ac1e2b864b2570acee78c3a7a6125925e31f74386321"
+hash = "2ed2d06a1c1ac7d90fdf11d19360c7d8befabcf7e7ecab35f070aa45fb7bc8c8"
 
 [[files]]
 file = "config/AppliedEnergistics2/Facades.cfg"
@@ -10,7 +10,7 @@ hash = "661cd844fe44c188c95368174e115681b69d63f5b6f62a676bb9331860599ebb"
 
 [[files]]
 file = "config/Building Gadgets.cfg"
-hash = "e15ed6fd9ff4d5a8facc9f4a7fec3db1cb658af7387233d9ca0b3901120cd371"
+hash = "afefedc90c33c2c3dc13c22757810211727ff9d20d1c21b99c149e96e89cc60a"
 
 [[files]]
 file = "config/IntegrationForegoing.cfg"
@@ -26,7 +26,7 @@ hash = "f04afa6690002f6f9ef6eeaaa73b9f21f8423af9a913c293bc34fb4fec78a9cb"
 
 [[files]]
 file = "config/LogisticsPipes.cfg"
-hash = "9eba525ea37809f28a28dfd8ed6c1fcc4cd23d3bb3c8491634233d0fc3d702f0"
+hash = "fbdc6f8d155a7ef63d9078cb92805cbcaf4a379da9b32de0eb3bf29c901aeb5f"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -90,7 +90,7 @@ hash = "2f35f85a830a97cbdc10b98ab0aaf66c425fc58929831f808759843be024dee4"
 
 [[files]]
 file = "config/akashictome.cfg"
-hash = "d391fbd4d704d94d57280e0f5169b3e1b4b3bbc48aea84d3cd0d9293f35307b1"
+hash = "90a299354cccd79b567c3a549ff321a4a10d9eb261da172d4ff878b5ab90d277"
 
 [[files]]
 file = "config/appleskin.cfg"
@@ -250,7 +250,7 @@ hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "ad4e396c926cab4391dc9e389518ef4aa4db6d21b7f619fe358eb6d166d589d5"
+hash = "740fdc44142812cb05ec6f4c228031ad0637d196c81ab8fe5dd943f656de643c"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
@@ -290,7 +290,11 @@ hash = "00fb48991a5710fb0b0ebdd6ac51f84c58b318cf576b3ec303c7beb42e6cdd16"
 
 [[files]]
 file = "config/extrautils2.cfg"
-hash = "f6ad40a058104f900c06f6a1bb2479fb72286922540ec457f722ea8eba97a5a7"
+hash = "5efbc60ed5b29d70c50234b9332d1bea5af9a6c28bb9cb26bce5cc3927529866"
+
+[[files]]
+file = "config/fastflyblockbreaking.cfg"
+hash = "d67acdc3ec47a6c3287293d3cacfe84c106277e5688dad76f81e0a0d134f1cc6"
 
 [[files]]
 file = "config/fastfurnace.cfg"
@@ -298,7 +302,7 @@ hash = "7c8db5e40867d4adc12f920ed5f22a7194d8cb68da287108d92af74604592c9f"
 
 [[files]]
 file = "config/findme.cfg"
-hash = "4234e6963bc9031a4a7f83d18bb1128d5bd4306c3c38791cd6b4cc5979cc7e16"
+hash = "724a613d56c4fb8c05455246e6c9007c184afb597a5e013a28e900cf2a20730c"
 
 [[files]]
 file = "config/foamfix.cfg"
@@ -326,7 +330,7 @@ hash = "4e565df86a5f6470d293615dadedff204c4e2ba727204d598aff685a8d929c59"
 
 [[files]]
 file = "config/ftbutilities.cfg"
-hash = "160802c827b9a0482f56665e95d03b1c2ee4eb81736b08a4fe746c4c7ca37440"
+hash = "d1133f80e5d6a2b7f74cb8269e0d14bb036ba520540cc54d399585d29bcad01e"
 
 [[files]]
 file = "config/gcym.cfg"
@@ -994,7 +998,7 @@ hash = "6a366f1dc4951a0c7e165a430dc5af6d1dd662c2a2920db4cf8f3e5e74f09241"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "9e6a3078a4e436837085ba5a4027818c7ecf036aa8819c7cea9127ca0a4a28e5"
+hash = "7edf54fda4cf3ae9bfeee6218b1bc51ddd9b2b4fec18576b7f4f8fd4979561e5"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -1055,6 +1059,14 @@ hash = "ddfdf0aaff4f90ed208e8f583b8e98f517aade4dbe97f1b504c9c917a7b0c69a"
 [[files]]
 file = "config/multiblocked.cfg"
 hash = "80ba68101d31e75767aa12b1878f62018884f031e550d91dc00361545e6f867a"
+
+[[files]]
+file = "config/multihotbar.cfg"
+hash = "0031edeb90122f1fc68fd5e7f684a700c578562fb790296d305a6eade27a4caa"
+
+[[files]]
+file = "config/multihotbar_size.txt"
+hash = "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1146,11 +1158,11 @@ hash = "4a1807997d3dc96aadc4aeff9e8263c167006860c7131ea89c7236dd353d67b7"
 
 [[files]]
 file = "config/smoothfont/smoothfont.cfg"
-hash = "ba05da1d664df9b1576b493bc235709718c6e55a71ab994e14a0314cc641a9dc"
+hash = "f6926e0b48445fb11995b5d1eb2d9e54c8034ec7f380efe23105abf21118502e"
 
 [[files]]
 file = "config/storagedrawers.cfg"
-hash = "d336d276f0cfda7d7bb133f4d5130848d07d36d92c9f93fc9ab81a46d4769769"
+hash = "a8da23c7099f05b30bbddcd5ed6ebb01f3edbc4b0fd725a42c0a92943aadee0e"
 
 [[files]]
 file = "config/teslacorelib.cfg"
@@ -1194,7 +1206,7 @@ hash = "083bebfc99d97312e71e07d00fc9e3344e8eda452390b872980154ebc1eeaafa"
 
 [[files]]
 file = "config/xtones.cfg"
-hash = "2ceef3bc4218cd4b75422259c84013d90c9672536d4810acbf067d1b1c2b7a31"
+hash = "68b5e8acf1a18be9be6353d91649eeea9762e4c100a9787e74f2a99f2cffd405"
 
 [[files]]
 file = "config/ynot.cfg"
@@ -1459,6 +1471,11 @@ hash = "751db9d136970e9b4744ce00eea1937644f10710173c82dfde06b373748e5a57"
 metafile = true
 
 [[files]]
+file = "mods/fastflyblockbreaking.pw.toml"
+hash = "94542a93ec95ace197a0127419f88c23bc32499c1225de9327d46b0598e00a76"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "fcde0ee8bff608d544d39815dae2b3c76775eb763122c8713d7e3bc97de388fd"
 metafile = true
@@ -1701,6 +1718,16 @@ metafile = true
 [[files]]
 file = "mods/mtlib.pw.toml"
 hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
+metafile = true
+
+[[files]]
+file = "mods/multi-hotbar-core.pw.toml"
+hash = "7b072755a606aa257291259138f5fa2d06d4476318d00bd58f56a51550b8dd34"
+metafile = true
+
+[[files]]
+file = "mods/multi-hotbar.pw.toml"
+hash = "e4caef15c12ceaed48269b21b7d4b60c018226b850e23f9959226de9989d14ac"
 metafile = true
 
 [[files]]

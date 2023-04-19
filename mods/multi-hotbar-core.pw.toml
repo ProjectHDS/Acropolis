@@ -1,0 +1,13 @@
+name = "Multi-Hotbar Core"
+filename = "multihotbarcore-1.12.2-1.0.1-build-T22.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c369ce53e417226231b400d7989901b5fe16020"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2520324
+project-id = 280150
