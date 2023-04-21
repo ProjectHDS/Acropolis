@@ -21,6 +21,10 @@ file = "config/JustEnoughCalculation/main.cfg"
 hash = "9fd71d935bce13fb80c078c18284fbcff08496cc42e4b6c1a1acf583fb742d49"
 
 [[files]]
+file = "config/JustEnoughCalculation/record.json"
+hash = "5f165b5c614488f10f6b1e4639757cd1171e66ebe31e4f6e2bd23033b4886fa9"
+
+[[files]]
 file = "config/JustEnoughCharacters.cfg"
 hash = "f04afa6690002f6f9ef6eeaaa73b9f21f8423af9a913c293bc34fb4fec78a9cb"
 
@@ -157,6 +161,10 @@ file = "config/chattweaks.cfg"
 hash = "922a75fcfb63f96802cafa30250f95a980095247936976b45fcb9034e9f4c696"
 
 [[files]]
+file = "config/chisel.cfg"
+hash = "b0f9ac4f75ae3a2a656f8998000ee489c6ba2b6533421cbb1f44a774675e5eb0"
+
+[[files]]
 file = "config/clienttweaks.cfg"
 hash = "0d8c915fef2caa01e645f5cccaa71cc04cd84f145f7d1dd838006fa877808615"
 
@@ -234,7 +242,7 @@ hash = "6d7e26bdeccd56c9212815b240030d1c376ddaa91e5a42ce7282ebd0f3533b58"
 
 [[files]]
 file = "config/discordcraft/config.cfg"
-hash = "e49a59ffa68abf3b3f14d4998824e92e3fa375f9e7730609b7935e5e133a4132"
+hash = "b7c5942437073fcfa7a59ac727a3685be06c737cbfbb7fb52e84318a419ffa9f"
 
 [[files]]
 file = "config/discordcraft/templates.json"
@@ -250,7 +258,7 @@ hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
 [[files]]
 file = "config/endercore/endercore.cfg"
-hash = "740fdc44142812cb05ec6f4c228031ad0637d196c81ab8fe5dd943f656de643c"
+hash = "ad4e396c926cab4391dc9e389518ef4aa4db6d21b7f619fe358eb6d166d589d5"
 
 [[files]]
 file = "config/enderio/enderio.cfg"
@@ -270,7 +278,7 @@ hash = "ed4d7af6b5daba92828cbd7e71ae71891fe0d590411fdbcb5eccb6620c5fb1eb"
 
 [[files]]
 file = "config/enderio/enderiomachines.cfg"
-hash = "2fc7bf9013451cd441c606a549cc90dd3fc8ebe7f811414d21bec3d7420a23d2"
+hash = "f3be759c822c9ce54940d42cf6a32f4e31461c1bf82421c895a17900aaf0809c"
 
 [[files]]
 file = "config/enderio/enderiopowertools.cfg"
@@ -998,7 +1006,7 @@ hash = "6a366f1dc4951a0c7e165a430dc5af6d1dd662c2a2920db4cf8f3e5e74f09241"
 
 [[files]]
 file = "config/jei/jei.cfg"
-hash = "7edf54fda4cf3ae9bfeee6218b1bc51ddd9b2b4fec18576b7f4f8fd4979561e5"
+hash = "9e6a3078a4e436837085ba5a4027818c7ecf036aa8819c7cea9127ca0a4a28e5"
 
 [[files]]
 file = "config/jei/searchColors.cfg"
@@ -1030,7 +1038,7 @@ hash = "cafaed3a878a90c9c43a99f276950070b4bdf52b5613eb2f2345c5ff88eb2848"
 
 [[files]]
 file = "config/lockdown.cfg"
-hash = "948a0f9907f4f093c17292bc511d9220f95c96e85bddeee7e61c020cf20c05c2"
+hash = "4b2ed97f6178235159dd15f8410cb4d6d1a62bfa1b745066db4385acce139ed3"
 
 [[files]]
 file = "config/loottweaker.cfg"
@@ -1351,6 +1359,11 @@ hash = "36b4d3a36e0556b9c5b9fd329c9d5737af36e41dbc22f4adfa1fbd475017107e"
 metafile = true
 
 [[files]]
+file = "mods/chisel.pw.toml"
+hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "cb082110b2c2f67cdc41d24d91f1ec199b64fc036b6cd5140847426fb42e444d"
 metafile = true
@@ -1616,11 +1629,6 @@ hash = "63c830c58c1d400abb04ea5875e572d169a3a26f5c825ab8386dfa99a3fbb608"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
-metafile = true
-
-[[files]]
 file = "mods/just-enough-calculation.pw.toml"
 hash = "9659d8f844faa0c1c92e914d7969b6ac1ecf2b6a8155834f8bfebc4193c30d45"
 metafile = true
@@ -1806,11 +1814,6 @@ hash = "a838f03dba134738d13747ea4f70a3dcdcc92fda838024fac85288e7c19c4e54"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "7002117665ce5d92a95947de6587428616c466db29bed0301b4fc8ef5903ad4f"
-metafile = true
-
-[[files]]
 file = "mods/redstone-control.pw.toml"
 hash = "81955b3f2398b134273a40c0d0499c4c06816aa01819d5d78ca357f2c5751fe7"
 metafile = true
@@ -1982,3 +1985,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "resources/pack.mcmeta"
 hash = "17efacfd12264d1a41376fd3a4ba8fe9ccf20e78612f187fc45ce48307063d0d"
+
+[[files]]
+file = "scripts/acropolis/events/firstTimeLogin.zs"
+hash = "bb16442d9d6f5d548eec83c4a8b739a0e83c245133c75180cdbcbc63c4abd8bf"
