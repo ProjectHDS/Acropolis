@@ -30,7 +30,6 @@ config/splash.properties
 config/InvTweaks/**
 config/InvTweaks.cfg
 *.local
-config/loliasm.cfg
 config/Probe.cfg
 cd4017be/compiled.dat
 
